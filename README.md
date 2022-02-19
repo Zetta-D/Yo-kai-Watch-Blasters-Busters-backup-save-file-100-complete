@@ -1,7 +1,7 @@
 (Created By ZettaD on 02/18/2022)
 
 ## Video
-[![image](https://user-images.githubusercontent.com/42093520/154795357-92f58b00-bce8-405f-92b5-30dd44845fda.png)](https://youtu.be/j4nzBmYYehk)
+[![image](https://imgur.com/a/Tp5brvL)](https://youtu.be/j4nzBmYYehk)
 
 
 ## This backup/save file contains:
