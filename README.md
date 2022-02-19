@@ -19,7 +19,8 @@
 bind.yw, game1.yw, game1.yw_g, head.yw, head.yw_g, passcommu.yw, sytem.yw, temp.ywb
 
 ## Download
-This backup will be offered as a gift to the next VIPs of my server wishing to have the new ywb plugin.Server: https://discord.gg/tqDbjh6G3GMy discord: ZettaD#6555
+This backup will be offered as a gift to the next VIPs of my server wishing to have the new ywb plugin.Server: https://discord.gg/tqDbjh6G3G
+My discord: ZettaD#6555
 
 ## Screenshots
 ![](https://preview.redd.it/u5738pm1cri81.png?width=400&format=png&auto=webp&s=b858cb4c75418f87d6467fcc6ec2f47a21660094)
